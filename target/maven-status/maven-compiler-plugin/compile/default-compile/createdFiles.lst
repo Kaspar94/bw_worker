@@ -1,4 +1,5 @@
 workerapi/Application.class
-workerapi/services/Receiver.class
 workerapi/models/Vote.class
 workerapi/repository/VoteRepository.class
+workerapi/config/RabbitMqConfig.class
+workerapi/services/Receiver.class
